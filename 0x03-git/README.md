@@ -1,1 +1,1 @@
-My readme file for 0x03-git directory
+ It’s time to code!
